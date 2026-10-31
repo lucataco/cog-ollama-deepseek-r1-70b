@@ -24,3 +24,9 @@ To run a prediction:
 
     Finally, I'll solve each simple equation to find the roots of the quadratic equation. This will provide the complete solution set.
     </think>
+
+## License
+
+The code in this repository is licensed under the [Apache License 2.0](LICENSE).
+
+The model weights are not covered by this license. [DeepSeek-R1-Distill-Llama-70B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B) is MIT, but it is derived from Llama 3.3 70B Instruct, so the [Llama 3.3 license](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct/blob/main/LICENSE) also applies.
